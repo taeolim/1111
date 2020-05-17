@@ -7,8 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/0_Menu.unity
+    guid: 1bd44dcb40917ab4baa018afb0850ee8
+  - enabled: 1
+    path: Assets/1_Loading.unity
     guid: 3527c90b937c4194da5b5f17eea0db1a
   - enabled: 1
-    path: Assets/1_BattleGround.unity
+    path: Assets/2_BattleGround.unity
     guid: 35000079c7f9e2e43b02f9ac43404ab6
   m_configObjects: {}
