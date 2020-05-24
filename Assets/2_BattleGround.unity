@@ -12580,11 +12580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b58f2c9a2a4e89547b7da296c6614b0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   SelectFBX: {fileID: 364740575}
-=======
-  SelectFBX: {fileID: 1165233410}
->>>>>>> ab5115433352e798c119f98e9f4fce86d4c43526
   unitQueueDatas:
   - isExist: 0
     index: 1
