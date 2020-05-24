@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DragandDrop.cs" />
     <Compile Include="Assets\Effect\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
     <Compile Include="Assets\Effect\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
     <Compile Include="Assets\Effect\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
@@ -78,6 +77,7 @@
     <Compile Include="Assets\Scripts\CharacterMove2.cs" />
     <Compile Include="Assets\Scripts\CharacterMove3.cs" />
     <Compile Include="Assets\Scripts\CharacterMove4.cs" />
+    <Compile Include="Assets\Scripts\DragandDrop.cs" />
     <Compile Include="Assets\Scripts\LoadManager.cs" />
     <Compile Include="Assets\Scripts\Loading1.cs" />
     <Compile Include="Assets\Scripts\LoadingBarNumber.cs" />
@@ -87,6 +87,7 @@
     <Compile Include="Assets\Scripts\QueueTile.cs" />
     <Compile Include="Assets\Scripts\SceneManger.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\UIUnitSelection.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
@@ -95,7 +96,6 @@
     <Compile Include="Assets\Scripts\screen.cs" />
     <Compile Include="Assets\Scripts\screenResolution.cs" />
     <Compile Include="Assets\Scripts\startResolution.cs" />
-    <Compile Include="Assets\Timer.cs" />
     <None Include="Assets\Monster\Optimize SDKohaku-Chanz\Shader\Unitychan_chara_eye.shader" />
     <None Include="Assets\Effect\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
